@@ -15,7 +15,7 @@ export const Footer = () => {
       <div className="footer-column   ">
         <h3>More on The Blog</h3>
         <ul>
-          <li>About MNTN</li>
+        <li>About MNTN</li>
           <li>Contributors & Writers</li>
           <li>Write For Us</li>
           <li>Contact Us</li>
